@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>97272A7E-9D43-457E-971D-F80E3F8C5317</string>
+	<string>63C19120-FD22-476D-99D1-4FC757E2FCC0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>hello_world_xcode</string>
+	<string>hello_world_ios</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>DA61A46E-AD9B-4A54-BF75-5267A86BE67E</key>
 		<string>https://github.com/JackDrogon/iOS_Study.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>hello_world_xcode/hello_world_xcode.xcodeproj/project.xcworkspace</string>
+	<string>hello_world_ios/hello_world_ios.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>DA61A46E-AD9B-4A54-BF75-5267A86BE67E</key>
